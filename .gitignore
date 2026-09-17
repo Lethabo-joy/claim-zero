@@ -1,0 +1,12 @@
+node_modules
+dist
+
+.git
+.gitignore
+
+terraform/.terraform
+terraform/*.tfstate
+terraform/*.tfstate.*
+
+.env
+.env.*
